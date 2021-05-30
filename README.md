@@ -24,15 +24,3 @@ Atlanta has a lot of features, with **7 main categories**:
 *   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **10** more! 
 *   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **2** more!
 
-
-### A powerful Dashboard
-
-Atlanta has its own dashboard which also offers many features! The dashboard runs with Express and EJS!
-
-<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/c3ya.png" height="200" width="350"/>
-<img align="center" style="float: left; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/vnq5.png" height="200" width="350"/>
-<img align="center" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/htga.png" height="200" width="350"/>
-
-You can directly **edit your configuration**, **manage your servers**, **view rankings**, **modify your profile** and much more!
-
-> Find the code in the dashboard folder! 
